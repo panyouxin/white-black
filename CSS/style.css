@@ -2,9 +2,8 @@ body {
 	margin: 0 ;
 	width: 100%;
 	padding: 0;
-	background: #7a2122 url('../images/body_bg.gif') repeat-x top;
+	background: #ffffff  repeat-x top;
 	font-family: Helvetica, sans-serif;
-	font-size: 62.5%;
 	color: #333;
 }
 
@@ -23,14 +22,14 @@ ul {
 }
 
 a:link {
-	color: #333;
+	color: #000000;
 	background: #eee;
 }
 
 
 
 a:visited {
-	color: #ff0000;
+	color: #000000;
 	background: #eee;
 }
 
@@ -84,7 +83,7 @@ the layout
 	padding-bottom: 5px;
 	width: 800px;
 	background: #fff;
-	border: 5px solid #5c0505;
+	border: 5px solid #000000;
 }
 
 #titleBar img {
