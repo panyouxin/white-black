@@ -17,6 +17,11 @@ ul {
 	justify-content: center;
 }
 
+a:link {
+	color: #0e0d0d;
+
+}
+
 #content, #sidebar {
 	margin: 0 auto;
 	padding: 20px;
