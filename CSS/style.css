@@ -93,7 +93,6 @@ height: 100%;
 	margin: 0 auto;
 	padding: 20px;
 	background: #fff;
-	border: 1px solid #ddd;
 }
 #content {
 	width: 600px;
@@ -107,7 +106,6 @@ footer {
 	clear: both;
 	background: #ffffff;
 	padding: 10px;
-	border-top: 2px solid #ffffff;
 	text-align: center;
 	color: #777;
 }
